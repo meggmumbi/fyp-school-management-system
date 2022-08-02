@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.exe
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.deps.json
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.runtimeconfig.json
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.dll
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\bin\Debug\netcoreapp3.1\CodilityTests.pdb
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.AssemblyInfo.cs
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.dll
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.pdb
+C:\Users\HP\source\repos\CodilityTests\CodilityTests\obj\Debug\netcoreapp3.1\CodilityTests.genruntimeconfig.cache
